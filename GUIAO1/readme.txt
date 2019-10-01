@@ -36,3 +36,21 @@
 
 
 maven clean up
+
+MAVEN GOAL?
+
+
+	O objetivo principal do Maven é facilitar e uniformizar todas as fases de construção de um projeto. Para que o Maven alcance esta meta,utiliza o conceito de repositórios, que podem ser de dois tipos: remotos e locais. Os repositórios remotos ficam num servidor web e centralizam todas as bibliotecas Java, sejam elas bibliotecas open source utilizadas como dependências ou artefatos dos próprios projetos da empresa, que por sua vez podem ser utilizados como dependências de outros projetos. Já o repositório local é, basicamente, uma pasta na máquina do desenvolvedor onde são gravadas as bibliotecas que este precisa ter para construir seus projetos.
+
+
+
+
+
+EX 1.2
+ 1.2b
+
+	URL para acesso ao repositório
+
+		git@github.com:freddavo/IES.git
+
+
